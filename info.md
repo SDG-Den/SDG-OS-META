@@ -1,7 +1,7 @@
 Package Name: sdgos-meta
 Descriptive Name: SDG OS Metapackage
-Source: https://git.sdgcloud.nl/SDGDen/SDG-OS-META
-Maintainer: SDGDen <sdgden@sdgcloud.nl>
+Source: https://github.com/SDG-Den/SDG-OS-META
+Maintainer: SDGDen
 Version:0.2
 
 Dependencies: 
