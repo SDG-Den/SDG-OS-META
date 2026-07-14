@@ -36,14 +36,6 @@ Note: SDG-TERM is not listed here — it is installed as a dependency of SDG-MAN
 sdgpkg install sdgos-meta
 ```
 
-Or run manually from a local clone:
-
-```bash
-git clone https://git.sdgcloud.nl/SDGDen/SDG-OS-META
-cd SDG-OS-META
-bash install.sh
-```
-
 ## Dependencies
 
 - `sdgpkg` (SDG-PKG) — must be bootstrapped first
